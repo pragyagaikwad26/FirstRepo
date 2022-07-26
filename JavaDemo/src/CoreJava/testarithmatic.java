@@ -1,5 +1,5 @@
 package CoreJava;
-
+//practising scanner , enter you choice on the basis of input 
 import java.util.Scanner;
 
 public class testarithmatic {

@@ -1,5 +1,6 @@
 package CoreJava;
 
+//practising of switch case performing Arithmetic operation on the basis of user input.
 import java.util.Scanner;
 
 public class TestSwitch {

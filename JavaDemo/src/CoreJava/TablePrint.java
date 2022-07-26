@@ -2,6 +2,8 @@ package CoreJava;
 
 import java.util.Scanner;
 
+//print table on the basis of input 
+
 public class TablePrint {
 	public static void main(String[] args) {
 		

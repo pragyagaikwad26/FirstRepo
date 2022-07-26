@@ -1,4 +1,5 @@
 package CoreJava;
+//practising of even n odd number by using if else
 
 public class oddeven {
 

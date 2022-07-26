@@ -1,4 +1,5 @@
 package CoreJava;
+//practising of if else loop performing arithmetic operations
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 package CoreJava;
-
+//practising table using while loop
 public class TestallTable {
 public static void main(String[] args) {
 	int i=1;

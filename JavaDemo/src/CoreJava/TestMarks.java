@@ -1,4 +1,5 @@
 package CoreJava;
+//practising if else loops for checking the percentage 
 
 import java.util.Scanner;
 

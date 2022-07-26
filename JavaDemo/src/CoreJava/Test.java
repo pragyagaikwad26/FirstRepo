@@ -1,4 +1,5 @@
 package CoreJava;
+//practising if else for checking elligibility of voter
 
 public class Test{
 public static void main (String args[]) {

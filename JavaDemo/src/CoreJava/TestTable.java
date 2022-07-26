@@ -1,4 +1,5 @@
 package CoreJava;
+// Practising of while or do while loops print table of a number
 
 public class TestTable {
 public static void main (String args[]) {

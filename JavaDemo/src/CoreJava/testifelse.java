@@ -1,5 +1,5 @@
 package CoreJava;
-
+//using if else for greater than or less than operation
 public class testifelse {
 public static void main (String args[]) {
 	int n=100;

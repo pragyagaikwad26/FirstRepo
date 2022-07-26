@@ -1,5 +1,5 @@
 package CoreJava;
-
+//practising while loops basic
 public class Testlastdigitnum {
 public static void main(String[] args) {
 	int num=235;

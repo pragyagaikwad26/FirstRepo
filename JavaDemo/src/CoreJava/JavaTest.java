@@ -1,4 +1,5 @@
 package CoreJava;
+//practising while do while loop for checking condition for print table
 
 public class JavaTest {
 public static void main (String args[])	{
