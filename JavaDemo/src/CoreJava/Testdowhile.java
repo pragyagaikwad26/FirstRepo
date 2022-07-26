@@ -24,6 +24,7 @@ Scanner sc = new Scanner(System.in);
 		   i = sc.nextInt();
 	}   
     while (i == 1);
+	
 	System.out.println("Thanks!!!!");
 }
 }
